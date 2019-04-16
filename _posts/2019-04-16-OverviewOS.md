@@ -6,12 +6,8 @@ title: 운영체제 서론 요약 정리
 
 ---
 
-# 운영체제 1장 요약 이해
-
 ​     
-
-
- ![그림입니다.  원본 그림의 이름: mem00001f5c03c5.tmp  원본 그림의 크기: 가로 476pixel, 세로 263pixel](file:///C:\Users\user\AppData\Local\Temp\Hnc\BinData\EMB00001f5c03c6.tmp)  
+![noname01](https://user-images.githubusercontent.com/33655220/56190703-c4ba0700-6065-11e9-9cfa-e23ee02c10b5.png)
 
 ​     
 
